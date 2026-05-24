@@ -278,24 +278,6 @@ scikit-learn >= 1.0
 
 ---
 
-## Trabajo Futuro
-
-### Mejoras identificadas:
-
-**Para alcanzar MAE < 0.20 dex:**
-1. Arquitectura más profunda (más capas convolucionales)
-2. Transfer Learning con fine-tuning (ResNet, EfficientNet)
-3. Ensemble de múltiples modelos
-4. Más data augmentation específico para astronomía
-5. Optimización de hiperparámetros (grid search)
-
-**Extensión a otras variables:**
-- log_SFR_Ha (tasa de formación estelar)
-- nsa_sersic_n (índice de Sersic)
-- vel_sigma_Re (dispersión de velocidad)
-
----
-
 ## Referencias
 
 1. Domínguez Sánchez, H., et al. (2018). "Transfer learning for galaxy morphology from one survey to another"
@@ -312,7 +294,3 @@ scikit-learn >= 1.0
 - Margen de mejora claro hacia estado del arte (MAE: 0.34 → 0.20)
 
 ---
-
-## Contacto
-
-Para preguntas sobre este notebook, contactar al Equipo 61.
