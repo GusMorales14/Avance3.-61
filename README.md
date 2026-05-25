@@ -263,6 +263,7 @@ scikit-learn >= 1.0
 ### Requisitos previos:
 1. Archivo `inferencia.csv` en el mismo directorio
 2. Ambiente con las dependencias instaladas
+3. Imagenes astronómicas utilzadas para entrenar el modelo: https://tecmx-my.sharepoint.com/personal/a01795837_tec_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fa01795837%5Ftec%5Fmx%2FDocuments%2FIntegreador&sharingv2=true&fromShare=true&at=9&CID=77d0d272%2D7c56%2D448c%2D9ad5%2D474b846da850&FolderCTID=0x012000F7B5EAA3A60AA546842AA8B660D5CEDA&view=0 
 
 ### Ejecución:
 1. Abrir notebook en Jupyter/Google Colab
